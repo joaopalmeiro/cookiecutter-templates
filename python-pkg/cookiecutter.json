@@ -1,0 +1,7 @@
+{
+  "name": "João Palmeiro",
+  "email": "joaommpalmeiro@gmail.com",
+  "github_username": "joaopalmeiro",
+  "project_name": "Python Package",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}"
+}
