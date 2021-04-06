@@ -17,3 +17,4 @@
 - `"project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}", "module_name": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}"`.
 - [Installing the classic Jupyter Notebook interface](https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html): `pip install jupyter`.
 - [Jupytext](https://github.com/mwouts/jupytext).
+- `jupyter notebook --version`.

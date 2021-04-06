@@ -4,8 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+jupyter = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.6"
+
+[scripts]
+empty_nb = "python create_empty_notebook.py demo"

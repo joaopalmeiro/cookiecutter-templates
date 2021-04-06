@@ -6,3 +6,6 @@ help:
 
 bake_pkg:
 	cookiecutter $(BAKE_OPTIONS) . --directory="$(PKG)"
+
+create_empty_nb:
+	pipenv run empty_nb
