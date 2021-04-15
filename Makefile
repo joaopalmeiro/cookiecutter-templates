@@ -9,3 +9,6 @@ bake_pkg:
 
 create_empty_nb:
 	pipenv run empty_nb
+
+clean:
+	rm -rf python_package/
