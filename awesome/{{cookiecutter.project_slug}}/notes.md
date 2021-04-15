@@ -4,3 +4,5 @@
 - The README file header was inspired by that of [Awesome Electron](https://github.com/sindresorhus/awesome-electron).
 - [List guidelines](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md).
 - `npm install --global awesome-lint` and `awesome-lint https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }}`/`awesome-lint` (locally).
+- You can add a logo to the README file, before the tagline (`> ...`), as follows:
+  - `[<img src="logo.svg" alt="Logo" align="right" width="100">](https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }})`.
