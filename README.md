@@ -10,6 +10,7 @@
 - Johan Vergeer's [cookiecutter-poetry](https://github.com/johanvergeer/cookiecutter-poetry) template.
 - Audrey Feldroy's [cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) template.
 - [How to create and open a jupyter notebook ipynb file directly from terminal](https://stackoverflow.com/questions/48946639/how-to-create-and-open-a-jupyter-notebook-ipynb-file-directly-from-terminal) question.
+- Timothée Mazzucotelli's [cookiecutter-awesome](https://github.com/pawamoy/cookiecutter-awesome) template.
 
 ## Notes
 

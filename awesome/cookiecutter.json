@@ -3,5 +3,6 @@
   "github_username": "joaopalmeiro",
   "project_name": "Awesome List",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
-  "project_short_description": "An Awesome list for a specific topic."
+  "project_tagline": "An Awesome list for a specific topic.",
+  "project_summary": "This topic corresponds to a particular subject."
 }

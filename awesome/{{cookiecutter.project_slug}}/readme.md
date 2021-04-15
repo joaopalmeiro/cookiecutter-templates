@@ -1,6 +1,8 @@
 # {{ cookiecutter.project_name }} [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> {{ cookiecutter.project_short_description }}
+> {{ cookiecutter.project_tagline }}
+
+{{ cookiecutter.project_summary }}
 
 ## Contents
 
