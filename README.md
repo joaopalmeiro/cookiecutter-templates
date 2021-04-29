@@ -2,6 +2,8 @@
 
 ## Templates
 
+- Awesome list: `cookiecutter https://github.com/joaopalmeiro/cookiecutter-templates.git --directory="awesome"`
+- Python CLI: `cookiecutter https://github.com/joaopalmeiro/cookiecutter-templates.git --directory="python-cli"`
 - Python package: `cookiecutter https://github.com/joaopalmeiro/cookiecutter-templates.git --directory="python-pkg"`
 
 ## References
