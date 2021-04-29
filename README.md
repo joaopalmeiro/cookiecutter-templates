@@ -13,6 +13,7 @@
 - Audrey Feldroy's [cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) template.
 - [How to create and open a jupyter notebook ipynb file directly from terminal](https://stackoverflow.com/questions/48946639/how-to-create-and-open-a-jupyter-notebook-ipynb-file-directly-from-terminal) question.
 - Timothée Mazzucotelli's [cookiecutter-awesome](https://github.com/pawamoy/cookiecutter-awesome) template.
+- Claudio Jolowicz's [Hypermodern Python — Chapter 1: Setup](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/) blog post.
 
 ## Notes
 
@@ -23,3 +24,4 @@
 - `jupyter notebook --version`.
 - [pipx](https://github.com/pipxproject/pipx) (JavaScript's npx for Python).
 - James Q Quick's [Fancy Blinking Cursor In VS Code](https://youtu.be/fTo9E0VCNrg) tutorial.
+- `"project_cli_name": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}"`.

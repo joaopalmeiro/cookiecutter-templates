@@ -5,6 +5,11 @@
 
 {{ cookiecutter.project_short_description }}
 
+## Development
+
+- `poetry install`
+- `poetry shell`
+
 ## Tech Stack
 
 ### Packaging and Development

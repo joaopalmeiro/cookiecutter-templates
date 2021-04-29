@@ -5,6 +5,11 @@
 
 {{ cookiecutter.project_short_description }}
 
+## Development
+
+- `poetry install`
+- `poetry shell`
+
 ## Tech Stack
 
 - [Click](https://click.palletsprojects.com/) (for the interface)
