@@ -7,10 +7,11 @@
 
 ## Tech Stack
 
+- [Click](https://click.palletsprojects.com/).
+
 ### Packaging and Development
 
 - [Poetry](https://python-poetry.org/)
-- [Click](https://click.palletsprojects.com/).
 - [Mypy](http://mypy-lang.org/)
 - [isort](https://pycqa.github.io/isort/)
 - [Black](https://github.com/psf/black)
