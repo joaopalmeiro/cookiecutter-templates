@@ -1,0 +1,10 @@
+{
+  "name": "João Palmeiro",
+  "email": "joaommpalmeiro@gmail.com",
+  "github_username": "joaopalmeiro",
+  "twitter_handle": "joaompalmeiro",
+  "project_name": "Python CLI",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "project_short_description": "A Python CLI for a specific purpose.",
+  "version": "0.0.1"
+}

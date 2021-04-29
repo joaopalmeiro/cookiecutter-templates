@@ -19,3 +19,4 @@
 - [Installing the classic Jupyter Notebook interface](https://jupyter.readthedocs.io/en/latest/install/notebook-classic.html): `pip install jupyter`.
 - [Jupytext](https://github.com/mwouts/jupytext).
 - `jupyter notebook --version`.
+- [pipx](https://github.com/pipxproject/pipx) (JavaScript's npx for Python).
