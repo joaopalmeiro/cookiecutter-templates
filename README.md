@@ -20,3 +20,4 @@
 - [Jupytext](https://github.com/mwouts/jupytext).
 - `jupyter notebook --version`.
 - [pipx](https://github.com/pipxproject/pipx) (JavaScript's npx for Python).
+- James Q Quick's [Fancy Blinking Cursor In VS Code](https://youtu.be/fTo9E0VCNrg) tutorial.
