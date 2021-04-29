@@ -7,7 +7,7 @@
 
 ## Tech Stack
 
-- [Click](https://click.palletsprojects.com/).
+- [Click](https://click.palletsprojects.com/) (for the interface)
 
 ### Packaging and Development
 
