@@ -25,3 +25,22 @@
 - [pipx](https://github.com/pipxproject/pipx) (JavaScript's npx for Python).
 - James Q Quick's [Fancy Blinking Cursor In VS Code](https://youtu.be/fTo9E0VCNrg) tutorial.
 - `"project_cli_name": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}"`.
+
+Python naming conventions ([source](https://github.com/pawamoy/copier-poetry)):
+
+```yaml
+python_package_distribution_name:
+  type: str
+  help: Your Python package distribution name (for `pip install NAME`)
+  default: "[[ project_name|lower|replace('_', '-')|replace(' ', '-') ]]"
+
+python_package_import_name:
+  type: str
+  help: Your Python package import name (for `import NAME` in Python code)
+  default: "[[ project_name|lower|replace('-', '_')|replace(' ', '_') ]]"
+
+python_package_command_line_name:
+  type: str
+  help: Your CLI name if any (for use in the shell)
+  default: "[[ project_name|lower|replace('_', '-')|replace(' ', '-') ]]"
+```
